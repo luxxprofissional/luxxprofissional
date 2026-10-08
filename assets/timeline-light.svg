@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="190" viewBox="0 0 1280 190" role="img" aria-label="Timeline: Deletebra 2016, OTDBO 2021, TSxHost, Hunteds and Mythor today.">
+<rect width="1280" height="190" fill="#F5F3EF"/>
+<line x1="72" y1="70" x2="1208" y2="70" stroke="#E1DDD5" stroke-width="2"/>
+<circle cx="79" cy="70" r="7" fill="#F5F3EF" stroke="#0E7A6B" stroke-width="2.5"/>
+<text x="72" y="46" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2" fill="#0E7A6B">2016</text>
+<text x="72" y="116" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#15171C">Deletebra</text>
+<text x="72" y="144" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#454A54">Opens its doors and grows</text>
+<text x="72" y="166" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#454A54">past 1,000 players online.</text>
+<circle cx="363" cy="70" r="7" fill="#F5F3EF" stroke="#0E7A6B" stroke-width="2.5"/>
+<text x="356" y="46" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2" fill="#0E7A6B">2021</text>
+<text x="356" y="116" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#15171C">OTDBO</text>
+<text x="356" y="144" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#454A54">A Dragon Ball universe on Tibia,</text>
+<text x="356" y="166" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#454A54">500+ players online.</text>
+<circle cx="647" cy="70" r="7" fill="#F5F3EF" stroke="#0E7A6B" stroke-width="2.5"/>
+<text x="640" y="46" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2" fill="#0E7A6B">TODAY</text>
+<text x="640" y="116" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#15171C">TSxHost</text>
+<text x="640" y="144" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#454A54">10,000+ TeamSpeak users</text>
+<text x="640" y="166" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#454A54">and 300+ hosting clients.</text>
+<circle cx="931" cy="70" r="7" fill="#F5F3EF" stroke="#0E7A6B" stroke-width="2.5"/>
+<text x="924" y="46" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="2" fill="#0E7A6B">TODAY</text>
+<text x="924" y="116" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#15171C">Hunteds · Mythor</text>
+<text x="924" y="144" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#454A54">Guild-war tooling trusted</text>
+<text x="924" y="166" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#454A54">by top guilds.</text>
+</svg>

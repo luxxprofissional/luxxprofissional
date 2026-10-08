@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="810" viewBox="0 0 1280 810" role="img" aria-label="Projects: TSxHost, Hunteds, Mythor, Deletebra, OTDBO, Midnight Los Santos">
+<rect width="1280" height="810" fill="#F5F3EF"/>
+<rect x="72" y="24" width="556" height="238" rx="6" fill="#FFFFFF" stroke="#E1DDD5"/>
+<g transform="translate(100 50) scale(0.92)" fill="none" stroke="#0E7A6B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 28v-4a14 14 0 0 1 28 0v4 M10 28h6v10h-6z M32 28h6v10h-6z M38 38c0 4-4 6-10 6h-3"/></g>
+
+<text x="160" y="74" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="-0.5" fill="#15171C">TSxHost</text>
+<text x="160" y="98" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#454A54">TeamSpeak hosting &amp; guild automation</text>
+<text x="100" y="136" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">Multi-tenant bot for Tibia guilds: live lists,</text>
+<text x="100" y="159" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">respawn queue, monthly schedules, death alerts,</text>
+<text x="100" y="182" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">guild bank and a full web control panel.</text>
+<line x1="100" y1="206" x2="600" y2="206" stroke="#E1DDD5"/>
+<text x="100" y="236" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0E7A6B">10,000+ users · 300+ clients</text>
+<text x="600" y="236" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#7A7F89" text-anchor="end">Laravel · ReactPHP · Node · Redis</text>
+<rect x="652" y="24" width="556" height="238" rx="6" fill="#FFFFFF" stroke="#E1DDD5"/>
+<g transform="translate(680 50) scale(0.92)" fill="none" stroke="#0E7A6B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M24 8v8 M24 32v8 M8 24h8 M32 24h8 M24 14a10 10 0 1 1 0 20a10 10 0 1 1 0-20 M24 22v4 M22 24h4"/></g>
+
+<text x="740" y="74" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="-0.5" fill="#15171C">Hunteds</text>
+<text x="740" y="98" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#454A54">Real-time guild-war intelligence</text>
+<text x="680" y="136" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">Who is online, who died, who killed —</text>
+<text x="680" y="159" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">streamed live to every member's browser</text>
+<text x="680" y="182" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">the moment it happens.</text>
+<line x1="680" y1="206" x2="1180" y2="206" stroke="#E1DDD5"/>
+<text x="680" y="236" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0E7A6B">Live, second by second</text>
+<text x="1180" y="236" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#7A7F89" text-anchor="end">TypeScript · Socket.IO · React</text>
+<rect x="72" y="286" width="556" height="238" rx="6" fill="#FFFFFF" stroke="#E1DDD5"/>
+<g transform="translate(100 312) scale(0.92)" fill="none" stroke="#0E7A6B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 10h14v12H8z M26 10h14v12H26z M8 26h14v12H8z M26 30h14v8H26z M30 34h6"/></g>
+
+<text x="160" y="336" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="-0.5" fill="#15171C">Mythor</text>
+<text x="160" y="360" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#454A54">Shared-account command center</text>
+<text x="100" y="398" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">Multi-guild panel for team-owned characters,</text>
+<text x="100" y="421" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">plus a desktop companion that types</text>
+<text x="100" y="444" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">credentials and 2FA on a global hotkey.</text>
+<line x1="100" y1="468" x2="600" y2="468" stroke="#E1DDD5"/>
+<text x="100" y="498" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0E7A6B">Multi-guild · desktop app</text>
+<text x="600" y="498" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#7A7F89" text-anchor="end">Laravel · Vue · .NET</text>
+<rect x="652" y="286" width="556" height="238" rx="6" fill="#FFFFFF" stroke="#E1DDD5"/>
+<g transform="translate(680 312) scale(0.92)" fill="none" stroke="#0E7A6B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M34 8l6 0 0 6-18 18-6-6z M16 26l6 6 M12 30l6 6 M10 38l-3 3 M14 34l-6 6"/></g>
+
+<text x="740" y="336" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="-0.5" fill="#15171C">Deletebra</text>
+<text x="740" y="360" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#454A54">Tibia 8.60, rebuilt from the binary up</text>
+<text x="680" y="398" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">Reverse-engineered the original client to add</text>
+<text x="680" y="421" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">a Store, Market and Hunt Analyser — and doubled</text>
+<text x="680" y="444" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">rendering performance: 425 → 1,000 FPS.</text>
+<line x1="680" y1="468" x2="1180" y2="468" stroke="#E1DDD5"/>
+<text x="680" y="498" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0E7A6B">1,000+ online · since 2016</text>
+<text x="1180" y="498" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#7A7F89" text-anchor="end">C++ · x86 RE · Direct3D · Lua</text>
+<rect x="72" y="548" width="556" height="238" rx="6" fill="#FFFFFF" stroke="#E1DDD5"/>
+<g transform="translate(100 574) scale(0.92)" fill="none" stroke="#0E7A6B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M24 8a16 16 0 1 1 0 32a16 16 0 1 1 0-32 M24 18l1.6 3.4 3.7.5-2.7 2.6.7 3.7-3.3-1.8-3.3 1.8.7-3.7-2.7-2.6 3.7-.5z"/></g>
+
+<text x="160" y="598" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="-0.5" fill="#15171C">OTDBO</text>
+<text x="160" y="622" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#454A54">Dragon Ball, as an Open Tibia world</text>
+<text x="100" y="660" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">A full custom universe: transformations,</text>
+<text x="100" y="683" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">item tiers, offline player shops and its own</text>
+<text x="100" y="706" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">client experience.</text>
+<line x1="100" y1="730" x2="600" y2="730" stroke="#E1DDD5"/>
+<text x="100" y="760" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0E7A6B">500+ online · since 2021</text>
+<text x="600" y="760" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#7A7F89" text-anchor="end">C++ · Lua · OTClient</text>
+<rect x="652" y="548" width="556" height="238" rx="6" fill="#FFFFFF" stroke="#E1DDD5"/>
+<g transform="translate(680 574) scale(0.92)" fill="none" stroke="#0E7A6B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M24 8a16 16 0 1 1 0 32a16 16 0 1 1 0-32 M24 20a4 4 0 1 1 0 8a4 4 0 1 1 0-8 M10 22h10 M28 22h10 M24 28v12"/></g>
+
+<text x="740" y="598" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="800" letter-spacing="-0.5" fill="#15171C">Midnight Los Santos</text>
+<text x="740" y="622" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#454A54">Roleplay server on MTA:SA</text>
+<text x="680" y="660" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">Phone with chat and voice calls, street races,</text>
+<text x="680" y="683" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">car audio from any link, real car models</text>
+<text x="680" y="706" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15.5" fill="#454A54">and a full admin panel — all custom-built.</text>
+<line x1="680" y1="730" x2="1180" y2="730" stroke="#E1DDD5"/>
+<text x="680" y="760" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0E7A6B">Built from scratch</text>
+<text x="1180" y="760" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="12.5" fill="#7A7F89" text-anchor="end">Lua · MTA:SA · Node</text>
+</svg>

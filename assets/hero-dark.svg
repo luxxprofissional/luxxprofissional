@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-label="Lucas A. — Founder of TSxHost, creator of Deletebra and OTDBO. 10,000+ TeamSpeak users, 300+ clients, 1,000+ players online on Deletebra, 500+ on OTDBO.">
+<rect width="1280" height="480" fill="#0F1115"/>
+<text x="72" y="86" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" fill="#3FB8A4">● SYSTEMS NOMINAL</text>
+<text x="1208" y="86" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="15" fill="#6E7480" text-anchor="end">since 2016</text>
+<text x="66" y="196" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="104" font-weight="800" letter-spacing="-3" fill="#EEECE7">Lucas A.</text>
+<text x="72" y="246" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#EEECE7">Founder of TSxHost. Creator of Deletebra and OTDBO.</text>
+<text x="72" y="280" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#A9AEB8">I build the tools Tibia guilds run on — and the game servers thousands of players call home.</text>
+<line x1="72" y1="326" x2="1208" y2="326" stroke="#262A33" stroke-width="1"/>
+<text x="72" y="398" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#EEECE7">10,000+</text>
+<rect x="72" y="410" width="28" height="3" fill="#3FB8A4"/>
+<text x="72" y="436" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.4" fill="#6E7480">TEAMSPEAK USERS</text>
+<line x1="332" y1="352" x2="332" y2="430" stroke="#262A33" stroke-width="1"/>
+<text x="356" y="398" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#EEECE7">300+</text>
+<rect x="356" y="410" width="28" height="3" fill="#3FB8A4"/>
+<text x="356" y="436" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.4" fill="#6E7480">HOSTING CLIENTS</text>
+<line x1="616" y1="352" x2="616" y2="430" stroke="#262A33" stroke-width="1"/>
+<text x="640" y="398" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#EEECE7">1,000+</text>
+<rect x="640" y="410" width="28" height="3" fill="#3FB8A4"/>
+<text x="640" y="436" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.4" fill="#6E7480">ONLINE · DELETEBRA</text>
+<line x1="900" y1="352" x2="900" y2="430" stroke="#262A33" stroke-width="1"/>
+<text x="924" y="398" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="-1.5" fill="#EEECE7">500+</text>
+<rect x="924" y="410" width="28" height="3" fill="#3FB8A4"/>
+<text x="924" y="436" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.4" fill="#6E7480">ONLINE · OTDBO</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="196" viewBox="0 0 1280 196" role="img" aria-label="Stack: BACKEND: PHP 8.4 · Laravel 12, Node.js · TypeScript, Python · Lua, C · C++ · C#; REAL-TIME &amp; DATA: Redis Streams, Socket.IO · ReactPHP, MariaDB · MySQL, Event-driven bots; FRONTEND: Filament · Livewire, Vue · React · Vite, Tailwind, Electron · .NET; GAMES &amp; INFRA: x86 reverse engineering, OTX · Canary · OTClient, TeamSpeak ServerQuery, Linux · Nginx · Docker">
+<rect width="1280" height="196" fill="#F5F3EF"/>
+<text x="72" y="36" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.8" fill="#0E7A6B">BACKEND</text>
+<text x="72" y="74" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">PHP 8.4 · Laravel 12</text>
+<text x="72" y="104" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">Node.js · TypeScript</text>
+<text x="72" y="134" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">Python · Lua</text>
+<text x="72" y="164" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">C · C++ · C#</text>
+<line x1="332" y1="20" x2="332" y2="176" stroke="#E1DDD5"/>
+<text x="356" y="36" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.8" fill="#0E7A6B">REAL-TIME &amp; DATA</text>
+<text x="356" y="74" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">Redis Streams</text>
+<text x="356" y="104" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">Socket.IO · ReactPHP</text>
+<text x="356" y="134" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">MariaDB · MySQL</text>
+<text x="356" y="164" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">Event-driven bots</text>
+<line x1="616" y1="20" x2="616" y2="176" stroke="#E1DDD5"/>
+<text x="640" y="36" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.8" fill="#0E7A6B">FRONTEND</text>
+<text x="640" y="74" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">Filament · Livewire</text>
+<text x="640" y="104" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">Vue · React · Vite</text>
+<text x="640" y="134" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">Tailwind</text>
+<text x="640" y="164" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">Electron · .NET</text>
+<line x1="900" y1="20" x2="900" y2="176" stroke="#E1DDD5"/>
+<text x="924" y="36" font-family="'Cascadia Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1.8" fill="#0E7A6B">GAMES &amp; INFRA</text>
+<text x="924" y="74" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">x86 reverse engineering</text>
+<text x="924" y="104" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">OTX · Canary · OTClient</text>
+<text x="924" y="134" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">TeamSpeak ServerQuery</text>
+<text x="924" y="164" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#15171C">Linux · Nginx · Docker</text>
+</svg>
