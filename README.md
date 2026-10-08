@@ -5,7 +5,7 @@
 
 For ten years I've been building the worlds Tibia players live in and the tools their guilds can't play without.
 
-I created **Deletebra** in 2016 and grew it past **1,000 players online**. In 2021 I opened **OTDBO**, a Dragon Ball universe with **500+ online**. Today I run **[TSxHost](https://tsxhost.com/)**, the TeamSpeak platform behind **10,000+ users and 300+ clients**, alongside **Hunteds** and **Mythor**, the guild-war and account tooling the top guilds rely on.
+I created **Deletebra** in 2016 and grew it past **1,000 players online**. In 2021 I opened **[OTDBO](https://otdbo.com.br/)**, a Dragon Ball universe with **500+ online**. Today I run **[TSxHost](https://tsxhost.com/)**, the TeamSpeak platform behind **10,000+ users and 300+ clients**, alongside **[Hunteds](https://hunteds.com/)** and **[Mythor](https://mythor.app/)**, the guild-war and account tooling the top guilds rely on.
 
 I own the whole stack — from x86 patches inside a decade-old game client to real-time services, web panels and the servers they run on.
 
@@ -67,7 +67,7 @@ I own the whole stack — from x86 patches inside a decade-old game client to re
 
 Há dez anos eu construo os mundos onde os jogadores de Tibia vivem e as ferramentas sem as quais as guildas deles não jogam.
 
-Criei o **Deletebra** em 2016 e levei a mais de **1.000 jogadores online**. Em 2021 abri o **OTDBO**, um universo de Dragon Ball com **500+ online**. Hoje comando a **[TSxHost](https://tsxhost.com/)**, a plataforma de TeamSpeak com **mais de 10.000 usuários e 300+ clientes**, além do **Hunteds** e do **Mythor**, as ferramentas de guerra e de contas em que as melhores guildas confiam.
+Criei o **Deletebra** em 2016 e levei a mais de **1.000 jogadores online**. Em 2021 abri o **[OTDBO](https://otdbo.com.br/)**, um universo de Dragon Ball com **500+ online**. Hoje comando a **[TSxHost](https://tsxhost.com/)**, a plataforma de TeamSpeak com **mais de 10.000 usuários e 300+ clientes**, além do **[Hunteds](https://hunteds.com/)** e do **[Mythor](https://mythor.app/)**, as ferramentas de guerra e de contas em que as melhores guildas confiam.
 
 Domino a stack inteira — de patches x86 dentro de um cliente de jogo com mais de uma década a serviços em tempo real, painéis web e os servidores onde tudo roda.
 
